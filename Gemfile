@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-ruby '3.0.0'
+ruby '3.1.2'
 
 gem "pg"
 gem "sequel"
