@@ -18,7 +18,7 @@ GEM
     rack-session (2.1.2)
       base64 (>= 0.1.0)
       rack (>= 3.0.0)
-    sequel (5.104.0)
+    sequel (5.107.0)
       bigdecimal
     sinatra (4.2.1)
       logger (>= 1.6.0)
