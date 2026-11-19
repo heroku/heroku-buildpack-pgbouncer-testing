@@ -40,7 +40,7 @@ DEPENDENCIES
   sinatra
 
 RUBY VERSION
-  ruby 3.3.8
+  ruby 3.3.14
 
 BUNDLED WITH
   4.0.9
